@@ -19,7 +19,11 @@
   "homepage": "https://github.com/JJLZ/footballkik#readme",
   "dependencies": {
     "body-parser": "^1.18.3",
+    "dependable": "^1.1.0",
     "ejs": "^2.6.1",
-    "express": "^4.16.3"
+    "express": "^4.16.3",
+    "express-promise-router": "^3.0.3",
+    "lodash": "^4.17.10",
+    "nodemon": "^1.18.3"
   }
 }
